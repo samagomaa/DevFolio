@@ -1,0 +1,27 @@
+@media screen and (max-width: 992px) {
+    .home{
+        background-image: url("../img/hero-bg.jpg");
+        background-position:50% 10%;
+    }
+    .homeContent h1{
+        font-size: 40px;
+    }
+    .item h4{
+        font-size: 20px;
+    }
+    .allFooter{
+        flex-wrap: wrap;
+    }
+    .leftFooter span{
+        font-size: 18px;
+    }
+    .rightFooter{
+        width: 100% !important;
+    }
+    .rightFooter .test{
+        float: right ;
+    }
+    .rightFooter span{
+        font-size: 18px;
+    }
+}
